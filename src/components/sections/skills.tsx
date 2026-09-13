@@ -3,39 +3,35 @@ import { AnimatedSection } from '@/components/ui/animated-section';
 const skills = [
   {
     category: 'Languages',
-    items: ['JavaScript', 'TypeScript', 'Python'],
+    items: ['Python', 'JavaScript', 'TypeScript', 'SQL', 'HTML5', 'CSS3'],
+  },
+  {
+    category: 'Python Ecosystem',
+    items: ['Pandas', 'NumPy', 'Pydantic', 'REST API Development', 'Object-Oriented Programming'],
   },
   {
     category: 'Frontend',
-    items: ['React.js', 'Next.js', 'HTML5', 'CSS3', 'Tailwind CSS', 'shadcn/ui', 'Material UI', 'Redux', 'Jotai'],
+    items: ['React.js', 'Next.js', 'Redux', 'Tailwind CSS', 'shadcn/ui', 'MERN Stack'],
   },
   {
     category: 'Backend',
-    items: ['Node.js', 'Express.js', 'Hono.js'],
+    items: ['Node.js', 'Express.js', 'REST API', 'GraphQL', 'Hono.js'],
   },
   {
     category: 'Databases',
-    items: ['MongoDB', 'SQL', 'Appwrite Database', 'Convex'],
-  },
-  {
-    category: 'APIs',
-    items: ['REST API', 'GraphQL'],
-  },
-  {
-    category: 'Authentication',
-    items: ['Better Auth', 'Next Auth', 'Clerk', 'JWT', 'Session Management'],
+    items: ['PostgreSQL', 'MongoDB', 'MySQL', 'Prisma ORM', 'Convex'],
   },
   {
     category: 'Cloud & DevOps',
-    items: ['Vercel', 'Git', 'GitHub'],
+    items: ['Docker', 'Kubernetes', 'CI/CD', 'AWS', 'GCP', 'Vercel', 'Git & GitHub'],
   },
   {
-    category: 'AI',
-    items: ['RAG', 'Embeddings', 'Tool Calling', 'AI SDK', 'Vapi'],
+    category: 'AI / ML & Agents',
+    items: ['LLMs', 'RAG', 'Prompt Engineering', 'Vector Embeddings', 'AI Agents', 'Gemini API'],
   },
   {
-    category: 'CS Fundamentals',
-    items: ['OOP', 'DBMS', 'Data Structures', 'Algorithms'],
+    category: 'Core Competencies',
+    items: ['Data Structures & Algorithms (DSA)', 'Agile/Scrum', 'SDLC', 'Debugging', 'Performance Optimization', 'Problem Solving'],
   },
 ];
 

@@ -10,6 +10,7 @@ import { Experience } from "@/components/sections/experience";
 import { SmartlyInfra } from "@/components/sections/smartly-infra";
 import { Projects } from "@/components/sections/projects";
 import { Skills } from "@/components/sections/skills";
+import { Education } from "@/components/sections/education";
 import { Contact } from "@/components/sections/contact";
 import { Footer } from "@/components/footer";
 
@@ -42,6 +43,7 @@ export default function Home() {
           <SmartlyInfra />
           <Projects />
           <Skills />
+          <Education />
           <Contact />
         </main>
 

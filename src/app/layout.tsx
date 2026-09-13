@@ -13,18 +13,19 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Jai Lakhmani — Full Stack AI Engineer",
-  description: "Full Stack AI Engineer shipping real-time SaaS and RAG-powered AI products with Next.js, real-time systems, and AI integrations.",
+  title: "Jai Lakhmani — Full Stack Developer | Python, React.js & AI Agents",
+  description: "Full Stack Developer with hands-on experience building REST APIs, full-stack web applications, and AI-powered agents using Python, React.js, and Next.js.",
   keywords: [
     "Jai Lakhmani",
-    "Full Stack AI Engineer",
-    "Full-Stack Developer",
+    "Full Stack Developer",
+    "Python",
+    "React.js",
     "Next.js",
-    "React",
     "TypeScript",
-    "RAG",
-    "AI SDK",
-    "SaaS",
+    "AI Agents",
+    "Docker",
+    "Kubernetes",
+    "PostgreSQL",
     "Software Engineer",
   ],
   authors: [{ name: "Jai Lakhmani" }],
@@ -33,14 +34,14 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "https://jailakhmani.com",
-    title: "Jai Lakhmani — Full-Stack Developer",
-    description: "Full-stack developer shipping real-time SaaS and RAG-powered AI products.",
+    title: "Jai Lakhmani — Full Stack Developer | Python, React.js & AI Agents",
+    description: "Full Stack Developer with hands-on experience building REST APIs, full-stack web applications, and AI-powered agents using Python, React.js, and Next.js.",
     siteName: "Jai Lakhmani Portfolio",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Jai Lakhmani — Full-Stack Developer",
-    description: "Full-stack developer shipping real-time SaaS and RAG-powered AI products.",
+    title: "Jai Lakhmani — Full Stack Developer | Python, React.js & AI Agents",
+    description: "Full Stack Developer with hands-on experience building REST APIs, full-stack web applications, and AI-powered agents using Python, React.js, and Next.js.",
   },
 };
 

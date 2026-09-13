@@ -29,7 +29,7 @@ export function Hero() {
                 <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-neon opacity-75"></span>
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-neon"></span>
               </span>
-              <span>Available for SaaS & AI Engineering</span>
+              <span>Available for Full Stack & AI Roles</span>
             </div>
 
             {/* Name Heading */}
@@ -47,7 +47,7 @@ export function Hero() {
                 mounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
               }`}
             >
-              Full Stack AI Engineer shipping <span className="text-neon font-semibold">real-time SaaS</span> and <span className="text-neon-glow font-semibold">RAG-powered AI</span> products.
+              Full Stack Developer building <span className="text-neon font-semibold">Python, React.js</span> & <span className="text-neon-glow font-semibold">AI Agents</span>.
             </p>
             
             {/* Supporting Line */}
@@ -56,7 +56,7 @@ export function Hero() {
                 mounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
               }`}
             >
-              Building production-ready applications with Next.js, real-time systems, and AI integrations.
+              Hands-on experience building REST APIs, production platforms, and AI-powered systems. Cut developer onboarding time by 40% through reusable full-stack frameworks.
             </p>
             
             {/* CTA Buttons */}
@@ -93,7 +93,7 @@ export function Hero() {
               }`}
             >
               <span className="text-xs font-mono text-zinc-500 mr-2">STACK:</span>
-              {['Next.js 15', 'TypeScript', 'RAG & AI', 'Real-Time', 'Hono', 'Convex', 'Appwrite'].map((tech) => (
+              {['Python', 'React.js', 'Next.js', 'TypeScript', 'AI Agents', 'Docker', 'Kubernetes', 'PostgreSQL'].map((tech) => (
                 <span 
                   key={tech}
                   className="inline-flex items-center rounded-md border border-zinc-800 bg-zinc-900/70 px-2.5 py-1 text-xs font-mono text-zinc-400"

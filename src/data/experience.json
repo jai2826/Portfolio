@@ -1,20 +1,25 @@
 [
   {
     "id": "studentlancer",
-    "role": "Full Stack AI Engineer",
+    "role": "Full Stack Developer",
     "company": "StudentLancer",
-    "period": "June 2026 – August 2026",
+    "period": "June 2026 – Present",
     "technologies": [
       "Next.js",
+      "PostgreSQL",
       "Prisma",
       "Better Auth",
       "TypeScript",
-      "Full-Stack Architecture"
+      "Sentry",
+      "Agile/Scrum"
     ],
     "bullets": [
-      "Architected standardized full-stack templates (Next.js, Prisma, Better Auth) reducing developer onboarding by 40%",
-      "Enabled 15+ student developers to ship production applications 3x faster",
-      "Built reusable component libraries and backend patterns adopted across 5+ projects"
+      "Contributed to a transport company's tracking, billing, and ERP platform using Next.js, PostgreSQL, and Prisma.",
+      "Helped build a Petpooja-style restaurant ERP SaaS product and two client websites (mkcinfracon.com, mkcpharma.in).",
+      "Designed reusable full-stack boilerplate modules (Next.js, Prisma, Better Auth), cutting developer onboarding time by 40%.",
+      "Collaborated with a team of 15+ developers using Agile methodology, Git version control, and peer code reviews.",
+      "Used Sentry for error monitoring and debugging in production environments."
     ]
   }
 ]
+

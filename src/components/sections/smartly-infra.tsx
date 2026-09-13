@@ -146,9 +146,9 @@ export function SmartlyInfra() {
                 </span>
                 <span>Live Operational Benchmark</span>
               </div>
-              <h2 className="text-3xl md:text-4xl font-bold text-zinc-50">Smartly Infra Contributions</h2>
+              <h2 className="text-3xl md:text-4xl font-bold text-zinc-50">Open Source & Smartly Infra</h2>
               <p className="text-zinc-400 text-sm md:text-base mt-2 max-w-xl">
-                Active contributor across the <span className="text-zinc-200 font-medium">Hybrid Intelligence Track</span> — building autonomous agent workflows, precision evaluation prompts, and deployed tools.
+                Open Source Contributor at <span className="text-zinc-200 font-medium">Smartly Infra Labs (GSSoC 2026)</span> — delivered 20+ merged contributions building and tuning AI agents, reviewing PRs, and standardizing prompt templates.
               </p>
             </div>
 

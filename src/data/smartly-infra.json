@@ -2,7 +2,7 @@
   "profileUrl": "https://infra.smartlylabs.ai/profile/cmt1wnpn8012z04juymq8uxsr",
   "name": "Jai Lakhmani",
   "location": "Bangalore",
-  "track": "Hybrid Intelligence Track",
+  "track": "Hybrid Intelligence Track (GSSoC 2026)",
   "stats": [
     {
       "label": "Total Score",
@@ -18,15 +18,15 @@
     },
     {
       "label": "Global Rank",
-      "value": 152,
+      "value": 144,
       "prefix": "#",
       "detail": "Worldwide"
     },
     {
       "label": "Accepted Work",
-      "value": 15,
-      "suffix": " tasks",
-      "detail": "Agent Tuning"
+      "value": 20,
+      "suffix": "+ PRs",
+      "detail": "Merged & Tuned"
     },
     {
       "label": "Deployed Agents",
